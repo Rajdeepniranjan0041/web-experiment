@@ -1,0 +1,49 @@
+.body{
+    font-family: Axial, sans-serif;
+    margin:40px;
+    text-align: left;
+}
+.h1 {
+    margin-bottom: 40px;
+}
+.h2 {
+    text-align: left;
+    margin-top: 40px;
+}
+
+.block-menu a{
+    display: block;
+ Background-color:#3498db;
+ color:white;
+    padding: 10px;
+    margin:5px;
+}
+
+
+.inline-menu a{
+    display:inline;
+ Background-color:#24f544;
+ color:white;
+    padding: 8px 14px;
+    margin:5px;
+}
+
+.inline-block-menu a{
+    display:inline-block;
+ Background-color:#9b59b6;
+ color:white;
+ padding: 12px 20px;
+ margin-right: 10px;
+ text-decoration: none;
+    
+    margin:5px;
+}
+
+.float-menu a{
+    float:left;
+ Background-color:#e67e22;
+ color:white;
+    padding: 12px 18px;
+    margin-right:10px;
+    text-decoration: none;
+}
